@@ -1,5 +1,18 @@
 # Changelog
 
+## [5.3.0](https://github.com/stevearc/conform.nvim/compare/v5.2.1...v5.3.0) (2024-01-29)
+
+
+### Features
+
+* add terragrunt_hclfmt formatter ([#278](https://github.com/stevearc/conform.nvim/issues/278)) ([375258f](https://github.com/stevearc/conform.nvim/commit/375258f1fe1500f175d7135aef1dc6a87dbd83b2))
+
+
+### Bug Fixes
+
+* `swift_format` doesn't respect `.swift-format` file ([#283](https://github.com/stevearc/conform.nvim/issues/283)) ([4588008](https://github.com/stevearc/conform.nvim/commit/4588008a7c5b57fbff97fdfb529c059235cdc7ee))
+* set a cwd for biome ([#282](https://github.com/stevearc/conform.nvim/issues/282)) ([03feeb5](https://github.com/stevearc/conform.nvim/commit/03feeb5024a4b44754d63dec55b79b8133a8ea9f))
+
 ## [5.2.1](https://github.com/stevearc/conform.nvim/compare/v5.2.0...v5.2.1) (2024-01-21)
 
 
